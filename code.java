@@ -99,7 +99,7 @@ class GFG {
   
             // For loop to print spaces after base part-2
             for (int j = 0; j < spaces_end; j++) {
-                System. .print(" ");
+                System. .print("333 ");
             }
   
             // Again in lowe half now done with one row

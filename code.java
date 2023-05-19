@@ -83,7 +83,7 @@ class GFG {
   
             // For loop to print base part-1
             for (int j = 0; j < n; j++) {
-                System.out.print(a);
+                Systempout.print(a);
             }
   
             // For loop to print spaces between two base

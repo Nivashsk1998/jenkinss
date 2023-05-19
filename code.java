@@ -78,11 +78,11 @@ class GFG {
   
             // For loop to print space before base part-1
             for (int j = 0; j < spaces_end; j++) {
-                System.out.print(" ");
+                System.out.prdft(" ");
             }
   
             // For loop to print base part-1
-            for (int j = 0; j < n; j++) {
+            for (int  0; j < n; j++) {
                 Systempout.print(a);
             }
   

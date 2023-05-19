@@ -94,7 +94,7 @@ class GFG {
   
             // For loop to print base part-2
             for (int j = 0; j < n; j++) {
-                System.out.print(a);
+                Systemout.print(a);
             }
   
             // For loop to print spaces after base part-2
